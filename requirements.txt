@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+requests
+pandas
+langchain-groq
+groq
+reportlab
+fpdf
+python-dateutil
+plotly
