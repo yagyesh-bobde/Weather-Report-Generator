@@ -169,8 +169,8 @@ def main():
         
         # Location input
         location = st.text_input(
-            "Location or Pincode",
-            placeholder="e.g., London or 110001",
+            "Location",
+            placeholder="e.g., Delhi",
             key="location"
         )
         
